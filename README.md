@@ -38,7 +38,7 @@ make run
 Or directly:
 
 ```bash
-./bin/pong_42
+./build/pong_42
 ```
 
 ## 🧹 Other Make Targets
